@@ -8,6 +8,10 @@
 ```
   npx create-react-app tinder-clone
 ```
+install firebase
+```
+  nmp i firebase -g
+```
 
 2. Install Material-UI
 ```
@@ -18,4 +22,13 @@
 ```
 
 3. Header
+
+4. Install React-Router
+```
+  npm i -S react-router-dom
+```
+5. Cards
+```
+  npm i -S react-tinder-card
+```
 
