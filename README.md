@@ -9,3 +9,13 @@
   npx create-react-app tinder-clone
 ```
 
+2. Install Material-UI
+```
+  npm i -S @material-ui/core
+  
+  npm i -S @material-ui/icons
+
+```
+
+3. Header
+
