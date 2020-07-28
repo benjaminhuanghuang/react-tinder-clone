@@ -32,3 +32,7 @@ install firebase
   npm i -S react-tinder-card
 ```
 
+6. ChatScreen
+```
+```
+
