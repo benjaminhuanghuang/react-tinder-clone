@@ -16,7 +16,7 @@ a {
   flex:1   /*use all space*/
 }
 .chat__details > p {
-  /* color: lightgray */
+  color: gray
 }
 
 .chat__image{
